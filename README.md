@@ -33,4 +33,4 @@ Warning signs that should not throw exceptions via the `Report` class.
 Report.IfNot(condition, "some error");
 ```
 
-[1]: http://www.nuget.org/packages/Microsoft.VisualStudio.Validation "Microsoft.VisualStudio.Validation NuGet package"
+[1]: https://www.nuget.org/packages/Microsoft.VisualStudio.Validation "Microsoft.VisualStudio.Validation NuGet package"
