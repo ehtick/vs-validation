@@ -13,4 +13,4 @@ Note that this repo is primarily used for Visual Studio and related products and
 Microsoft support for this software is available only for its use in officially supported products such as Visual Studio.
 Support and servicing is limited to the latest released version.
 For more information, see [Visual Studio Product Lifecycle and Servicing](https://learn.microsoft.com/visualstudio/productinfo/vs-servicing).
-Assisted support is available from a professional support engineer by opening a ticket with the [Microsoft assisted support team](https://support.serviceshub.microsoft.com/supportforbusiness/onboarding).
+Assisted support is available from a professional support engineer by opening a ticket with the [Microsoft assisted support team](https://support.microsoft.com/contactus).
